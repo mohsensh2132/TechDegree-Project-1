@@ -246,3 +246,21 @@ a.social:hover {
   margin-top: 20px;
   padding: 10px 20px;
 }
+
+.home-page-link {
+  margin-top: 20px;
+  text-align: left;
+  margin-left: 30px;
+  color: indigo;
+}
+
+
+/* Styles for the Contact Me page*/
+
+.contact-me-body {
+  text-align: center;
+}
+
+.contact-me-picture {
+  max-width: 600px;
+}
